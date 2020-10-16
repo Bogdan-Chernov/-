@@ -1,0 +1,10 @@
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\obj\Debug\Обработки исключений.csprojAssemblyReference.cache
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\obj\Debug\Обработки исключений.csproj.CoreCompileInputs.cache
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\bin\Debug\Обработки исключений.exe.config
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\bin\Debug\Обработки исключений.exe
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\bin\Debug\Обработки исключений.pdb
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\obj\Debug\Обработки исключений.exe
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\obj\Debug\Обработки исключений.pdb
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\bin\Debug\NetClass.dll
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\bin\Debug\NetClass.pdb
+C:\Users\solov\source\repos\Обработки исключений\Обработки исключений\obj\Debug\Обработки исключений.csproj.CopyComplete
